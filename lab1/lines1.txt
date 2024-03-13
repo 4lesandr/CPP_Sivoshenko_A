@@ -1,0 +1,1 @@
+The text and length of the required line are given. Center the lines. Handle situations where source lines are larger than a given length (hyphenate extra words) and the source lines do not contain spaces. We read the text from the file. The file name and long lines are specified using command line arguments. Approximate algorithm:
