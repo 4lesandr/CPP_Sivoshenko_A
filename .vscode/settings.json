@@ -69,6 +69,14 @@
         "iterator": "cpp",
         "memory_resource": "cpp",
         "utility": "cpp",
-        "filesystem": "cpp"
+        "filesystem": "cpp",
+        "__tree": "c",
+        "any": "c",
+        "forward_list": "c",
+        "map": "c",
+        "span": "c",
+        "valarray": "c",
+        "numeric": "c",
+        "ranges": "c"
     }
 }
